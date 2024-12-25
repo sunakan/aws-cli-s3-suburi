@@ -1,0 +1,2 @@
+# S3バケット名
+export S3_BUCKET_NAME=
